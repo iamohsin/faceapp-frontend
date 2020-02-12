@@ -20,17 +20,17 @@ const particleoptions = {
  
     "particles": {
         "number": {
-            "value": 2000,
+            "value": 500,
             "density": {
                 "enable": false
             }
         },
         "size": {
-            "value": 3,
+            "value": 2,
             "random": true,
             "anim": {
                 "speed": 4,
-                "size_min": 0.3
+                "size_min": 0.5
             }
         },
         "line_linked": {
